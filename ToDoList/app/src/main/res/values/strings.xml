@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string name="WelcomeMessage">hold an item to remove it and tap to read aloud</string>
+    <string name="action_settings">Settings</string>
+    <string name="UserInputHint">Enter new item</string>
+</resources>
