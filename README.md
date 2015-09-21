@@ -1,7 +1,9 @@
 # App4
 Alex van der Meer
+
 student #: 10400958
-email: a.meerdervan@gmail.coom
+
+email: a.meerdervan@gmail.com
 
 App title: ToDoList
 Description:
